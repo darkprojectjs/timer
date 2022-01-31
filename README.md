@@ -1,4 +1,4 @@
-# timezone-bot
+# timezone-bot in the dark
 
 A simple timezone bot for Discord servers.
 
