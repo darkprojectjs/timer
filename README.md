@@ -1,4 +1,4 @@
-# timezone-bot in the darkness
+# timezone-bot in the dark
 
 
 
